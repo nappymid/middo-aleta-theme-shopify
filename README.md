@@ -40,7 +40,5 @@ To use or customize this theme:
 
 ## Resources
 
-- [Aleta Theme on Envato](#) [https://elements.envato.com/aleta-cosmetics-figma-template-VZWLVS7]
-- [Shopify Theme Development Documentation](#) [Insert link to Shopify theme development documentation here]
-- [SCSS Guide](#) [Insert link to SCSS guide/reference here]
-- [Liquid Documentation](#) [Insert link to Liquid documentation here]
+- [Aleta Theme on Envato](https://elements.envato.com/aleta-cosmetics-figma-template-VZWLVS7)
+- [Shopify Theme Development Documentation](https://shopify.dev/docs/themes)
