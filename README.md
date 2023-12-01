@@ -1,0 +1,2 @@
+# middo-aleta-theme-shopify
+
